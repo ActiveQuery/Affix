@@ -1,0 +1,24 @@
+/*!
+* Affix
+*  
+* Copyright (c) 2018-Present Syed Kazmi
+* 
+* Version: 22.1.0
+* License: Open Software License 3.0 (OSL-3.0) 
+* Author: Syed Kazmi <activeq.framework@gmail.com>
+* Repository: https://github.com/ActiveQuery/Affix
+* 
+* https://ActiveQuery.github.io 
+*
+* This software, is released under Terms & Conditions of Open Software License version 3.0 
+* (the 'License'). You should have received a copy of the License along with this source file, if 
+* not then please visit any of the below links for further details regarding specific language 
+* governing permissions and limitations;
+*  
+* https://github.com/ActiveQuery/Affix/blob/main/LICENSE.txt 
+* http://opensource.org/licenses/osl-3.0.php
+* 
+* This copyright notice/header must remain intact with this source file.
+* 
+*/
+.as-affix-relative{position:relative;}.as-affix-absolute{position:absolute!important;}.as-affix-fixed{position:fixed!important;}.as-affix-sticky{position:-webkit-sticky!important;position:sticky!important;}.affix-top{position:absolute;top:0;}.affix-bottom{position:absolute;bottom:0;}.affix-left{position:absolute;left:0;}.affix-right{position:absolute;right:0;}.affix-top-left,.affix-left-top{position:absolute;left:0;top:0;}.affix-top-right,.affix-right-top{position:absolute;right:0;top:0;}.affix-bottom-left,.affix-left-bottom{position:absolute;left:0;bottom:0;}.affix-bottom-right,.affix-right-bottom{position:absolute;right:0;bottom:0;}.affix-center{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);}.affix-left-center{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%);}.affix-right-center{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%);}.affix-center-top{position:absolute;left:50%;top:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%);}.affix-center-bottom{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%);}
