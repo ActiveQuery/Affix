@@ -1,6 +1,8 @@
 Affix
 
-Copyright © 2018 - Present Syed Kazmi 
+Copyright © 2018 - 2022 Syed Kazmi
+Copyright © 2020 - 2022 Brixbon
+
 
 "Affix" a Cascading Style Sheets Software, and regardless of adopted case formats is 
 synonymous with and wheresoever referred to as "Affix CSS" or "AffixCSS" or "Affix.css". 
