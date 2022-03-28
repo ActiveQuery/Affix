@@ -1,7 +1,7 @@
 Affix
 
 Copyright © 2018 - 2022 Syed Kazmi
-Copyright © 2021 - 2022 Brixbon
+Copyright © 2021 - 2022 Brixbon and Contributors
 
 
 "Affix" a Cascading Style Sheets Software, and regardless of adopted case formats is 
